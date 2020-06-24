@@ -8,8 +8,9 @@ All contributions are greatly appreciated.
 
 1. `fork` and `clone` this repo.
 2. Explore de code base `/src` and please understand it.
-3. Publish an issue if you got a feature propossal or some bugs that you might wanna work on.
-4. Just enjoy any meaningful PR is welcome.
+3. Use `yarn test` or `npm test` before submitting a PR.
+4. Publish an issue if you got a feature propossal or some bugs that you might wanna work on.
+5. Just enjoy any meaningful PR is welcome.
 
 ### Docs
 
