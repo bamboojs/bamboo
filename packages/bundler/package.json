@@ -1,0 +1,7 @@
+{
+  "name": "@bamboo/bundler",
+  "version": "1.0.0",
+  "description": "Bundler for bamboojs",
+  "main": "index.js",
+  "license": "MIT"
+}
