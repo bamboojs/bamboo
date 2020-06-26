@@ -1,0 +1,9 @@
+{
+  "name": "bamboo",
+  "version": "1.0.0",
+  "description": "Bamboo React UI components",
+  "main": "index.js",
+  "repository": "https://github.com/bamboojs/bamboo.git",
+  "author": "rodzy <49137701+rodzy@users.noreply.github.com>",
+  "license": "MIT"
+}
