@@ -1,0 +1,20 @@
+{
+  "name": "bamboo",
+  "version": "1.0.0",
+  "description": "The estructured UI React component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "styleguidist server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bamboojs/bamboo.git"
+  },
+  "author": "@rodzy <https://github.com/rodzy>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bamboojs/bamboo/issues"
+  },
+  "homepage": "https://github.com/bamboojs/bamboo#readme"
+}
