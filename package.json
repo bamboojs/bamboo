@@ -16,5 +16,23 @@
   "bugs": {
     "url": "https://github.com/bamboojs/bamboo/issues"
   },
-  "homepage": "https://github.com/bamboojs/bamboo#readme"
+  "homepage": "https://github.com/bamboojs/bamboo#readme",
+  "peerDependencies": {
+    "@emotion/core": "10.x",
+    "@emotion/styled": "10.x",
+    "react": "^16.x",
+    "react-dom": "^16.x"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/preset-react": "^7.10.4",
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "babel-loader": "^8.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-styleguidist": "^11.0.8",
+    "webpack": "^4.43.0"
+  }
 }
